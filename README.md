@@ -21,24 +21,6 @@
   <img src="https://komarev.com/ghpvc/?username=advait666202&label=Profile+views&color=8B5CF6&style=flat" alt="profile views"/>
   <img src="https://img.shields.io/github/followers/advait666202?label=Followers&style=flat&color=8B5CF6" alt="followers"/>
 </p>
-<!-- ============ PROFILE VIEWS + FOLLOWERS ============ -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=advait666202&label=Profile+views&color=8B5CF6&style=flat" alt="profile views"/>
-  <img src="https://img.shields.io/github/followers/advait666202?label=Followers&style=flat&color=8B5CF6" alt="followers"/>
-</p>
-
-<!-- ============ ANIMATED TAGLINE ============ -->
-<p align="center">
-  <a href="https://github.com/advait666202">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=720&lines=%F0%9F%A4%96+AI+Business+Analyst+in+the+making;%F0%9F%8E%93+MAIB+%40+SP+Jain+Dubai+%7C+BBA+(International+Business);%F0%9F%9B%A0%EF%B8%8F+Building+explainable+AI+products+with+LLMs+%26+RL;%F0%9F%92%BC+Bridging+strategy+and+technology" alt="Typing SVG" />
-  </a>
-</p>
-
-<!-- ============ PROFILE VIEWS + FOLLOWERS ============ -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=advait666202&label=Profile+views&color=8B5CF6&style=flat" alt="profile views"/>
-  <img src="https://img.shields.io/github/followers/advait666202?label=Followers&style=flat&color=8B5CF6" alt="followers"/>
-</p>
 
 ---
 
@@ -88,6 +70,8 @@ I'm a business graduate (BBA, International Business & Marketing) currently purs
   <a href="https://pytorch.org" target="_blank" rel="noreferrer" title="PyTorch"><img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="45" alt="PyTorch"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://keras.io" target="_blank" rel="noreferrer" title="Keras"><img src="https://cdn.simpleicons.org/keras/D00000" height="45" alt="Keras"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://scikit-learn.org" target="_blank" rel="noreferrer" title="scikit-learn"><img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="45" alt="scikit-learn"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://en.wikipedia.org/wiki/Q-learning" target="_blank" rel="noreferrer" title="Q-Learning"><img src="./assets/q-learning.png" height="45" alt="Q-Learning"/></a>
+</p>
 
 ### 📊 Data & Analytics
 <p align="left">
@@ -95,6 +79,8 @@ I'm a business graduate (BBA, International Business & Marketing) currently purs
   <a href="https://numpy.org" target="_blank" rel="noreferrer" title="NumPy"><img src="https://cdn.simpleicons.org/numpy/013243" height="45" alt="NumPy"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://matplotlib.org" target="_blank" rel="noreferrer" title="Matplotlib"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="45" alt="Matplotlib"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://plotly.com" target="_blank" rel="noreferrer" title="Plotly"><img src="https://cdn.simpleicons.org/plotly/3F4F75" height="45" alt="Plotly"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://powerbi.microsoft.com" target="_blank" rel="noreferrer" title="Power BI"><img src="https://cdn.simpleicons.org/powerbi/F2C811" height="45" alt="Power BI"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer" title="Microsoft Excel"><img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="45" alt="Excel"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://mlflow.org" target="_blank" rel="noreferrer" title="MLflow"><img src="https://cdn.simpleicons.org/mlflow/0194E2" height="45" alt="MLflow"/></a>
 </p>
 
@@ -103,6 +89,7 @@ I'm a business graduate (BBA, International Business & Marketing) currently purs
   <a href="https://www.sqlite.org" target="_blank" rel="noreferrer" title="SQLite"><img src="https://cdn.simpleicons.org/sqlite/003B57" height="45" alt="SQLite"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.mysql.com" target="_blank" rel="noreferrer" title="MySQL"><img src="https://cdn.simpleicons.org/mysql/4479A1" height="45" alt="MySQL"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.mongodb.com" target="_blank" rel="noreferrer" title="MongoDB"><img src="https://cdn.simpleicons.org/mongodb/47A248" height="45" alt="MongoDB"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://aws.amazon.com/dynamodb" target="_blank" rel="noreferrer" title="Amazon DynamoDB"><img src="./assets/dynamodb.png" height="45" alt="DynamoDB"/></a>
 </p>
 
 ### 🚀 Deployment & Tooling
@@ -114,6 +101,7 @@ I'm a business graduate (BBA, International Business & Marketing) currently purs
   <a href="https://github.com" target="_blank" rel="noreferrer" title="GitHub"><img src="https://cdn.simpleicons.org/github/ffffff" height="45" alt="GitHub"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://nodejs.org" target="_blank" rel="noreferrer" title="Node.js"><img src="https://cdn.simpleicons.org/nodedotjs/339933" height="45" alt="Node.js"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://daringfireball.net/projects/markdown/" target="_blank" rel="noreferrer" title="Markdown"><img src="https://cdn.simpleicons.org/markdown/ffffff" height="45" alt="Markdown"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.canva.com" target="_blank" rel="noreferrer" title="Canva"><img src="https://cdn.simpleicons.org/canva/00C4CC" height="45" alt="Canva"/></a>
 </p>
 
 ### 💼 Business & Product Skills
@@ -214,12 +202,10 @@ I'm a business graduate (BBA, International Business & Marketing) currently purs
 
 ---
 
-<!-- ============ FOOTER WAVE ============ -->
+<!-- ============ FOOTER ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="footer"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&pause=1000&color=00D4FF&center=true&vCenter=true&width=520&lines=%3E+Ship+AI+people+can+verify_;%3E+End+of+profile.exe+%E2%80%94+thanks+for+scrolling_" alt="footer"/>
 </p>
-
-<p align="center"><em>“Ship AI people can verify.”</em></p>
 
 <!-- =========================================================
      🎮 PAC-MAN CONTRIBUTION GRAPH — ONE-TIME SETUP
