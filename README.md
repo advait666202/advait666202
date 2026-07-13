@@ -70,8 +70,6 @@ I'm a business graduate (BBA, International Business & Marketing) currently purs
   <a href="https://pytorch.org" target="_blank" rel="noreferrer" title="PyTorch"><img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="45" alt="PyTorch"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://keras.io" target="_blank" rel="noreferrer" title="Keras"><img src="https://cdn.simpleicons.org/keras/D00000" height="45" alt="Keras"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://scikit-learn.org" target="_blank" rel="noreferrer" title="scikit-learn"><img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="45" alt="scikit-learn"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://en.wikipedia.org/wiki/Q-learning" target="_blank" rel="noreferrer" title="Q-Learning"><img src="./assets/q-learning.png" height="45" alt="Q-Learning"/></a>
-</p>
 
 ### 📊 Data & Analytics
 <p align="left">
