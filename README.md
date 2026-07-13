@@ -85,7 +85,6 @@ I'm a business graduate (BBA, International Business & Marketing) currently purs
   <a href="https://www.sqlite.org" target="_blank" rel="noreferrer" title="SQLite"><img src="https://cdn.simpleicons.org/sqlite/003B57" height="45" alt="SQLite"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.mysql.com" target="_blank" rel="noreferrer" title="MySQL"><img src="https://cdn.simpleicons.org/mysql/4479A1" height="45" alt="MySQL"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.mongodb.com" target="_blank" rel="noreferrer" title="MongoDB"><img src="https://cdn.simpleicons.org/mongodb/47A248" height="45" alt="MongoDB"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://aws.amazon.com/dynamodb" target="_blank" rel="noreferrer" title="Amazon DynamoDB"><img src="./assets/dynamodb.png" height="45" alt="DynamoDB"/></a>
 </p>
 
 ### 🚀 Deployment & Tooling
@@ -97,7 +96,6 @@ I'm a business graduate (BBA, International Business & Marketing) currently purs
   <a href="https://github.com" target="_blank" rel="noreferrer" title="GitHub"><img src="https://cdn.simpleicons.org/github/ffffff" height="45" alt="GitHub"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://nodejs.org" target="_blank" rel="noreferrer" title="Node.js"><img src="https://cdn.simpleicons.org/nodedotjs/339933" height="45" alt="Node.js"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://daringfireball.net/projects/markdown/" target="_blank" rel="noreferrer" title="Markdown"><img src="https://cdn.simpleicons.org/markdown/ffffff" height="45" alt="Markdown"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.canva.com" target="_blank" rel="noreferrer" title="Canva"><img src="https://cdn.simpleicons.org/canva/00C4CC" height="45" alt="Canva"/></a>
 </p>
 
 ### 💼 Business & Product Skills
