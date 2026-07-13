@@ -65,19 +65,19 @@ I'm a business graduate (BBA, International Business & Marketing) currently purs
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer" title="Python"><img src="https://cdn.simpleicons.org/python/3776AB" height="45" alt="Python"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://huggingface.co" target="_blank" rel="noreferrer" title="Hugging Face"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="45" alt="Hugging Face"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://huggingface.co/google/flan-t5-base" target="_blank" rel="noreferrer" title="FLAN-T5"><img src="https://cdn.simpleicons.org/google/4285F4" height="45" alt="FLAN-T5"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://huggingface.co/google/flan-t5-base" target="_blank" rel="noreferrer" title="FLAN-T5 (Google Research)"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" height="45" alt="FLAN-T5"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer" title="TensorFlow"><img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="45" alt="TensorFlow"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://pytorch.org" target="_blank" rel="noreferrer" title="PyTorch"><img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="45" alt="PyTorch"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://keras.io" target="_blank" rel="noreferrer" title="Keras"><img src="https://cdn.simpleicons.org/keras/D00000" height="45" alt="Keras"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://scikit-learn.org" target="_blank" rel="noreferrer" title="scikit-learn"><img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="45" alt="scikit-learn"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://en.wikipedia.org/wiki/Q-learning" target="_blank" rel="noreferrer" title="Q-Learning"><img src="https://cdn.simpleicons.org/openai/9146FF" height="45" alt="Q-Learning"/></a>
+  <a href="https://en.wikipedia.org/wiki/Q-learning" target="_blank" rel="noreferrer" title="Q-Learning"><img src="./assets/q-learning.png" height="45" alt="Q-Learning"/></a>
 </p>
 
 ### 📊 Data & Analytics
 <p align="left">
   <a href="https://pandas.pydata.org" target="_blank" rel="noreferrer" title="pandas"><img src="https://cdn.simpleicons.org/pandas/150458" height="45" alt="pandas"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://numpy.org" target="_blank" rel="noreferrer" title="NumPy"><img src="https://cdn.simpleicons.org/numpy/013243" height="45" alt="NumPy"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://matplotlib.org" target="_blank" rel="noreferrer" title="Matplotlib"><img src="https://matplotlib.org/_static/logo_dark.svg" height="45" alt="Matplotlib"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://matplotlib.org" target="_blank" rel="noreferrer" title="Matplotlib"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="45" alt="Matplotlib"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://plotly.com" target="_blank" rel="noreferrer" title="Plotly"><img src="https://cdn.simpleicons.org/plotly/3F4F75" height="45" alt="Plotly"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://powerbi.microsoft.com" target="_blank" rel="noreferrer" title="Power BI"><img src="https://cdn.simpleicons.org/powerbi/F2C811" height="45" alt="Power BI"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer" title="Microsoft Excel"><img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="45" alt="Excel"/></a>&nbsp;&nbsp;&nbsp;
@@ -89,7 +89,7 @@ I'm a business graduate (BBA, International Business & Marketing) currently purs
   <a href="https://www.sqlite.org" target="_blank" rel="noreferrer" title="SQLite"><img src="https://cdn.simpleicons.org/sqlite/003B57" height="45" alt="SQLite"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.mysql.com" target="_blank" rel="noreferrer" title="MySQL"><img src="https://cdn.simpleicons.org/mysql/4479A1" height="45" alt="MySQL"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.mongodb.com" target="_blank" rel="noreferrer" title="MongoDB"><img src="https://cdn.simpleicons.org/mongodb/47A248" height="45" alt="MongoDB"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://aws.amazon.com/dynamodb" target="_blank" rel="noreferrer" title="Amazon DynamoDB"><img src="https://cdn.simpleicons.org/amazondynamodb/4053D6" height="45" alt="DynamoDB"/></a>
+  <a href="https://aws.amazon.com/dynamodb" target="_blank" rel="noreferrer" title="Amazon DynamoDB"><img src="./assets/dynamodb.png" height="45" alt="DynamoDB"/></a>
 </p>
 
 ### 🚀 Deployment & Tooling
@@ -125,6 +125,7 @@ I'm a business graduate (BBA, International Business & Marketing) currently purs
         <img src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white"/>
         <img src="https://img.shields.io/badge/Gradio-F97316?style=flat&logo=gradio&logoColor=white"/>
       </p>
+      <p><strong>Status:</strong> 🚧 In Progress</p>
       <a href="https://github.com/advait666202"><img src="https://img.shields.io/badge/View%20Repo-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/></a>
     </td>
     <td width="50%" valign="top">
@@ -138,6 +139,7 @@ I'm a business graduate (BBA, International Business & Marketing) currently purs
         <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white"/>
         <img src="https://img.shields.io/badge/Gradio-F97316?style=flat&logo=gradio&logoColor=white"/>
       </p>
+      <p><strong>Status:</strong> 🚧 In Progress</p>
       <a href="https://github.com/advait666202"><img src="https://img.shields.io/badge/View%20Repo-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/></a>
     </td>
   </tr>
