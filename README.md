@@ -1,12 +1,22 @@
 <!-- =========================================================
      ADVAIT DALVI — GITHUB PROFILE README
      ========================================================= -->
-
-<!-- ============ LIVE BANNER (name + tagline) ============ -->
+<!-- ============ CUSTOM CODER/AI BANNER ============ -->
 <p align="center">
   <a href="https://github.com/advait666202">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Advait%20Dalvi&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Turning%20AI%20into%20Business%20Impact&descAlignY=58&descAlign=50&descSize=18" alt="Advait Dalvi banner"/>
+    <img src="./assets/banner.svg" alt="Advait Dalvi — AI Business Analyst" width="100%"/>
   </a>
+</p>
+<!-- ============ ANIMATED TAGLINE ============ -->
+<p align="center">
+  <a href="https://github.com/advait666202">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=00D4FF&center=true&vCenter=true&width=800&lines=%F0%9F%9A%80+Building+TalkToData+(NL%E2%86%92SQL)+%26+Optimus+(RL+pricing);%F0%9F%8E%AF+Focus%3A+LLM+guardrails+%C2%B7+Verifiable+AI+%C2%B7+Business+decisions;%F0%9F%8C%8D+Dubai+based+%C2%B7+Open+to+AI+Business+Analyst+roles;%F0%9F%92%AC+Let's+talk+about+AI+outputs+a+manager+can+trust" alt="Typing SVG" />
+  </a>
+</p>
+<!-- ============ PROFILE VIEWS + FOLLOWERS ============ -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=advait666202&label=Profile+views&color=8B5CF6&style=flat" alt="profile views"/>
+  <img src="https://img.shields.io/github/followers/advait666202?label=Followers&style=flat&color=8B5CF6" alt="followers"/>
 </p>
 
 <!-- ============ ANIMATED TAGLINE ============ -->
