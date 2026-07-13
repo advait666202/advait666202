@@ -77,8 +77,6 @@ I'm a business graduate (BBA, International Business & Marketing) currently purs
   <a href="https://numpy.org" target="_blank" rel="noreferrer" title="NumPy"><img src="https://cdn.simpleicons.org/numpy/013243" height="45" alt="NumPy"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://matplotlib.org" target="_blank" rel="noreferrer" title="Matplotlib"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="45" alt="Matplotlib"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://plotly.com" target="_blank" rel="noreferrer" title="Plotly"><img src="https://cdn.simpleicons.org/plotly/3F4F75" height="45" alt="Plotly"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://powerbi.microsoft.com" target="_blank" rel="noreferrer" title="Power BI"><img src="https://cdn.simpleicons.org/powerbi/F2C811" height="45" alt="Power BI"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer" title="Microsoft Excel"><img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="45" alt="Excel"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://mlflow.org" target="_blank" rel="noreferrer" title="MLflow"><img src="https://cdn.simpleicons.org/mlflow/0194E2" height="45" alt="MLflow"/></a>
 </p>
 
