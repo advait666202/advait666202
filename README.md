@@ -133,7 +133,7 @@ I'm a business graduate (BBA, International Business & Marketing) currently purs
     </td>
     <td width="50%" valign="top" align="left">
       <br/>
-      <h3>&nbsp;💰 Optimus</h3>
+      <h3>&nbsp;💰 Optimus-AI-Agent</h3>
       <p>&nbsp;<em>Dynamic-pricing co-pilot that decides — and explains.</em></p>
       <p>&nbsp;A pricing assistant built on a 200-product electronics catalogue. A Q-learning agent trained over 81 market situations (inventory × demand × season × competitor price) discovers pricing patterns on its own. A FLAN-T5 explanation layer then turns each decision into a two-sentence business rationale a manager can act on.</p>
       <p>
@@ -144,7 +144,7 @@ I'm a business graduate (BBA, International Business & Marketing) currently purs
         <img src="https://img.shields.io/badge/Gradio-F97316?style=flat&logo=gradio&logoColor=white"/>
       </p>
       <p>&nbsp;<strong>Status:</strong> 🚧 In Progress</p>
-      <p>&nbsp;<a href="https://github.com/advait666202/Optimus"><img src="https://img.shields.io/badge/View%20Repo-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/></a></p>
+      <p>&nbsp;<a href="https://github.com/advait666202/Optimus-AI-Agent"><img src="https://img.shields.io/badge/View%20Repo-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/></a></p>
     </td>
   </tr>
 </table>
