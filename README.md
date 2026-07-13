@@ -53,8 +53,6 @@ I'm a business graduate (BBA, International Business & Marketing) currently purs
   <img src="https://raw.githubusercontent.com/advait666202/advait666202/output/pacman-contribution-graph.svg" alt="pacman contribution graph"/>
 </div>
 
-
-
 ---
 
 ## 💻 Tech Stack
@@ -101,40 +99,52 @@ I'm a business graduate (BBA, International Business & Marketing) currently purs
 </p>
 
 ### 💼 Business & Product Skills
-> Concepts, not tools — no icons for these, but they're what turn the stack above into shipped products.
 
-`LLM Prompt Design & Evaluation` · `Natural-Language-to-SQL` · `LLM Guardrails & Verifiable Outputs` · `KPI Definition (Profit, Margin, Sell-Through)` · `Requirements Gathering & User Stories` · `Competitor & Market Research` · `Lead Generation` · `Stakeholder Storytelling`
+<p align="left">
+  <img src="https://img.shields.io/badge/LLM_Prompt_Design-8B5CF6?style=for-the-badge&logo=openai&logoColor=white" alt="LLM Prompt Design"/>
+  <img src="https://img.shields.io/badge/NL%E2%86%92SQL-00D4FF?style=for-the-badge&logo=databricks&logoColor=white" alt="Natural Language to SQL"/>
+  <img src="https://img.shields.io/badge/LLM_Guardrails-EC4899?style=for-the-badge&logo=letsencrypt&logoColor=white" alt="LLM Guardrails"/>
+  <img src="https://img.shields.io/badge/KPI_Definition-F97316?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="KPI Definition"/>
+  <img src="https://img.shields.io/badge/Requirements_%26_User_Stories-6B7280?style=for-the-badge&logo=notion&logoColor=white" alt="Requirements & User Stories"/>
+  <img src="https://img.shields.io/badge/Market_Research-3B82F6?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Market Research"/>
+  <img src="https://img.shields.io/badge/Lead_Generation-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Lead Generation"/>
+  <img src="https://img.shields.io/badge/Stakeholder_Storytelling-F59E0B?style=for-the-badge&logo=googleslides&logoColor=white" alt="Stakeholder Storytelling"/>
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-<table>
+<table align="center" width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <h3>🗣️ TalkToData</h3>
-      <p><em>Ask your database in plain English.</em></p>
-      <p>An AI dashboard that lets a non-technical manager type a business question — <em>"what was yesterday's revenue?"</em> — and get the answer back in seconds, with the SQL shown underneath so they can verify it. Three engines side-by-side (rule-based, raw LLM, LLM + guardrails) so users feel the difference between brittle rules and safe AI.</p>
+    <td width="50%" valign="top" align="left">
+      <br/>
+      <h3>&nbsp;🗣️ TalkToData</h3>
+      <p>&nbsp;<em>Ask your database in plain English.</em></p>
+      <p>&nbsp;An AI dashboard that lets a non-technical manager type a business question — <em>"what was yesterday's revenue?"</em> — and get the answer back in seconds, with the SQL shown underneath so they can verify it. Three engines side-by-side (rule-based, raw LLM, LLM + guardrails) so users feel the difference between brittle rules and safe AI.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54"/>
+        &nbsp;<img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54"/>
         <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black"/>
         <img src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white"/>
         <img src="https://img.shields.io/badge/Gradio-F97316?style=flat&logo=gradio&logoColor=white"/>
       </p>
-      <a href="https://github.com/advait666202"><img src="https://img.shields.io/badge/View%20Repo-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/></a>
+      <p>&nbsp;<strong>Status:</strong> 🚧 In Progress</p>
+      <p>&nbsp;<a href="https://github.com/advait666202/TalkToData"><img src="https://img.shields.io/badge/View%20Repo-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/></a></p>
     </td>
-    <td width="50%" valign="top">
-      <h3>💰 Optimus</h3>
-      <p><em>Dynamic-pricing co-pilot that decides — and explains.</em></p>
-      <p>A pricing assistant built on a 200-product electronics catalogue. A Q-learning agent trained over 81 market situations (inventory × demand × season × competitor price) discovers pricing patterns on its own. A FLAN-T5 explanation layer then turns each decision into a two-sentence business rationale a manager can act on.</p>
+    <td width="50%" valign="top" align="left">
+      <br/>
+      <h3>&nbsp;💰 Optimus</h3>
+      <p>&nbsp;<em>Dynamic-pricing co-pilot that decides — and explains.</em></p>
+      <p>&nbsp;A pricing assistant built on a 200-product electronics catalogue. A Q-learning agent trained over 81 market situations (inventory × demand × season × competitor price) discovers pricing patterns on its own. A FLAN-T5 explanation layer then turns each decision into a two-sentence business rationale a manager can act on.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54"/>
+        &nbsp;<img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54"/>
         <img src="https://img.shields.io/badge/Q--Learning-9146FF?style=flat&logo=openai&logoColor=white"/>
         <img src="https://img.shields.io/badge/FLAN--T5-4B8BBE?style=flat&logo=google&logoColor=white"/>
         <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white"/>
         <img src="https://img.shields.io/badge/Gradio-F97316?style=flat&logo=gradio&logoColor=white"/>
       </p>
-      <a href="https://github.com/advait666202"><img src="https://img.shields.io/badge/View%20Repo-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/></a>
+      <p>&nbsp;<strong>Status:</strong> 🚧 In Progress</p>
+      <p>&nbsp;<a href="https://github.com/advait666202/Optimus"><img src="https://img.shields.io/badge/View%20Repo-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/></a></p>
     </td>
   </tr>
 </table>
@@ -146,8 +156,8 @@ I'm a business graduate (BBA, International Business & Marketing) currently purs
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=advait666202&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&icon_color=8B5CF6&title_color=8B5CF6"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=advait666202&layout=compact&theme=tokyonight&hide_border=true&title_color=8B5CF6"/>
+  <img height="180em" src="https://github-readme-stats.shion.dev/api?username=advait666202&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&icon_color=8B5CF6&title_color=8B5CF6"/>
+  <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=advait666202&layout=compact&theme=tokyonight&hide_border=true&title_color=8B5CF6"/>
 </p>
 
 <p align="center">
@@ -155,7 +165,7 @@ I'm a business graduate (BBA, International Business & Marketing) currently purs
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=advait666202&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=advait666202&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="trophies"/>
 </p>
 
 ---
@@ -200,43 +210,3 @@ I'm a business graduate (BBA, International Business & Marketing) currently purs
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&pause=1000&color=00D4FF&center=true&vCenter=true&width=520&lines=%3E+Ship+AI+people+can+verify_;%3E+End+of+profile.exe+%E2%80%94+thanks+for+scrolling_" alt="footer"/>
 </p>
-
-<!-- =========================================================
-     🎮 PAC-MAN CONTRIBUTION GRAPH — ONE-TIME SETUP
-     =========================================================
-     The Pac-Man SVG above is generated by a GitHub Action.
-     Do this ONCE and it will auto-update daily.
-
-     1. In your special repo (username/username = advait666202/advait666202),
-        create this file:  .github/workflows/pacman.yml
-
-     2. Paste this content:
-
-     name: Generate Pac-Man contribution graph
-     on:
-       schedule:
-         - cron: "0 0 * * *"
-       workflow_dispatch:
-       push:
-         branches: [main]
-     jobs:
-       generate:
-         runs-on: ubuntu-latest
-         steps:
-           - uses: actions/checkout@v4
-           - uses: abozanona/pacman-contribution-graph@main
-             with:
-               github_user_name: advait666202
-               outputs_dir: output
-           - uses: crazy-max/ghaction-github-pages@v4
-             with:
-               target_branch: output
-               build_dir: output
-             env:
-               GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-     3. Commit → go to Actions tab → run "Generate Pac-Man
-        contribution graph" once manually. It will create the
-        `output` branch containing the SVG, and the image link
-        in this README will start rendering.
-     ========================================================= -->
