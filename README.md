@@ -53,7 +53,7 @@ I'm a business graduate (BBA, International Business & Marketing) currently purs
   <img src="https://raw.githubusercontent.com/advait666202/advait666202/output/pacman-contribution-graph.svg" alt="pacman contribution graph"/>
 </div>
 
-> Setup instructions for this animation are at the bottom of this README.
+
 
 ---
 
@@ -70,7 +70,6 @@ I'm a business graduate (BBA, International Business & Marketing) currently purs
   <a href="https://pytorch.org" target="_blank" rel="noreferrer" title="PyTorch"><img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="45" alt="PyTorch"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://keras.io" target="_blank" rel="noreferrer" title="Keras"><img src="https://cdn.simpleicons.org/keras/D00000" height="45" alt="Keras"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://scikit-learn.org" target="_blank" rel="noreferrer" title="scikit-learn"><img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="45" alt="scikit-learn"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://en.wikipedia.org/wiki/Q-learning" target="_blank" rel="noreferrer" title="Q-Learning"><img src="./assets/q-learning.png" height="45" alt="Q-Learning"/></a>
 </p>
 
 ### 📊 Data & Analytics
@@ -79,8 +78,6 @@ I'm a business graduate (BBA, International Business & Marketing) currently purs
   <a href="https://numpy.org" target="_blank" rel="noreferrer" title="NumPy"><img src="https://cdn.simpleicons.org/numpy/013243" height="45" alt="NumPy"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://matplotlib.org" target="_blank" rel="noreferrer" title="Matplotlib"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="45" alt="Matplotlib"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://plotly.com" target="_blank" rel="noreferrer" title="Plotly"><img src="https://cdn.simpleicons.org/plotly/3F4F75" height="45" alt="Plotly"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://powerbi.microsoft.com" target="_blank" rel="noreferrer" title="Power BI"><img src="https://cdn.simpleicons.org/powerbi/F2C811" height="45" alt="Power BI"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer" title="Microsoft Excel"><img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="45" alt="Excel"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://mlflow.org" target="_blank" rel="noreferrer" title="MLflow"><img src="https://cdn.simpleicons.org/mlflow/0194E2" height="45" alt="MLflow"/></a>
 </p>
 
@@ -101,7 +98,6 @@ I'm a business graduate (BBA, International Business & Marketing) currently purs
   <a href="https://github.com" target="_blank" rel="noreferrer" title="GitHub"><img src="https://cdn.simpleicons.org/github/ffffff" height="45" alt="GitHub"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://nodejs.org" target="_blank" rel="noreferrer" title="Node.js"><img src="https://cdn.simpleicons.org/nodedotjs/339933" height="45" alt="Node.js"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://daringfireball.net/projects/markdown/" target="_blank" rel="noreferrer" title="Markdown"><img src="https://cdn.simpleicons.org/markdown/ffffff" height="45" alt="Markdown"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.canva.com" target="_blank" rel="noreferrer" title="Canva"><img src="https://cdn.simpleicons.org/canva/00C4CC" height="45" alt="Canva"/></a>
 </p>
 
 ### 💼 Business & Product Skills
@@ -125,7 +121,6 @@ I'm a business graduate (BBA, International Business & Marketing) currently purs
         <img src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white"/>
         <img src="https://img.shields.io/badge/Gradio-F97316?style=flat&logo=gradio&logoColor=white"/>
       </p>
-      <p><strong>Status:</strong> 🚧 In Progress</p>
       <a href="https://github.com/advait666202"><img src="https://img.shields.io/badge/View%20Repo-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/></a>
     </td>
     <td width="50%" valign="top">
@@ -139,7 +134,6 @@ I'm a business graduate (BBA, International Business & Marketing) currently purs
         <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white"/>
         <img src="https://img.shields.io/badge/Gradio-F97316?style=flat&logo=gradio&logoColor=white"/>
       </p>
-      <p><strong>Status:</strong> 🚧 In Progress</p>
       <a href="https://github.com/advait666202"><img src="https://img.shields.io/badge/View%20Repo-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/></a>
     </td>
   </tr>
