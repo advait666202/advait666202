@@ -149,7 +149,6 @@ I'm a business graduate (BBA, International Business & Marketing) currently purs
   </tr>
 </table>
 
-> 💡 **Want to pin these?** Go to your GitHub profile → *Customize your pins* → select TalkToData, Optimus, and any coursework repos you want visible.
 
 ---
 
@@ -165,8 +164,7 @@ I'm a business graduate (BBA, International Business & Marketing) currently purs
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=advait666202&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="trophies"/>
-</p>
+  <img src="https://github-profile-trophy.vercel.app/?username=advait666202&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15"
 
 ---
 
