@@ -125,7 +125,6 @@ I'm a business graduate (BBA, International Business & Marketing) currently purs
         <img src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white"/>
         <img src="https://img.shields.io/badge/Gradio-F97316?style=flat&logo=gradio&logoColor=white"/>
       </p>
-      <p><strong>Status:</strong> 🚧 In Progress</p>
       <a href="https://github.com/advait666202"><img src="https://img.shields.io/badge/View%20Repo-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/></a>
     </td>
     <td width="50%" valign="top">
@@ -139,7 +138,6 @@ I'm a business graduate (BBA, International Business & Marketing) currently purs
         <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white"/>
         <img src="https://img.shields.io/badge/Gradio-F97316?style=flat&logo=gradio&logoColor=white"/>
       </p>
-      <p><strong>Status:</strong> 🚧 In Progress</p>
       <a href="https://github.com/advait666202"><img src="https://img.shields.io/badge/View%20Repo-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/></a>
     </td>
   </tr>
