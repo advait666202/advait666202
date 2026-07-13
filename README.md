@@ -42,7 +42,8 @@ I'm a business graduate (BBA, International Business & Marketing) currently purs
   <a href="https://linkedin.com/in/AdvaitDalvi"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:advaitdalvi03@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://instagram.com/_simply_advait"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
-
+  <a href="https://huggingface.co/"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/></a>
+</p>
 
 ---
 
@@ -58,49 +59,55 @@ I'm a business graduate (BBA, International Business & Marketing) currently purs
 
 ## 💻 Tech Stack
 
-*Curated from real project work — every badge below shows up in TalkToData, Optimus, or coursework.*
+*Icon only — hover to identify, click to visit the official site.*
 
 ### 🧠 AI / ML / LLMs
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![FLAN-T5](https://img.shields.io/badge/FLAN--T5-4B8BBE?style=for-the-badge&logo=google&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Q-Learning](https://img.shields.io/badge/Q--Learning-9146FF?style=for-the-badge&logo=openai&logoColor=white)
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer" title="Python"><img src="https://cdn.simpleicons.org/python/3776AB" height="45" alt="Python"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://huggingface.co" target="_blank" rel="noreferrer" title="Hugging Face"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="45" alt="Hugging Face"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://huggingface.co/google/flan-t5-base" target="_blank" rel="noreferrer" title="FLAN-T5"><img src="https://cdn.simpleicons.org/google/4285F4" height="45" alt="FLAN-T5"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer" title="TensorFlow"><img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="45" alt="TensorFlow"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://pytorch.org" target="_blank" rel="noreferrer" title="PyTorch"><img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="45" alt="PyTorch"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://keras.io" target="_blank" rel="noreferrer" title="Keras"><img src="https://cdn.simpleicons.org/keras/D00000" height="45" alt="Keras"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://scikit-learn.org" target="_blank" rel="noreferrer" title="scikit-learn"><img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="45" alt="scikit-learn"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://en.wikipedia.org/wiki/Q-learning" target="_blank" rel="noreferrer" title="Q-Learning"><img src="https://cdn.simpleicons.org/openai/9146FF" height="45" alt="Q-Learning"/></a>
+</p>
 
 ### 📊 Data & Analytics
-![pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+<p align="left">
+  <a href="https://pandas.pydata.org" target="_blank" rel="noreferrer" title="pandas"><img src="https://cdn.simpleicons.org/pandas/150458" height="45" alt="pandas"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://numpy.org" target="_blank" rel="noreferrer" title="NumPy"><img src="https://cdn.simpleicons.org/numpy/013243" height="45" alt="NumPy"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://matplotlib.org" target="_blank" rel="noreferrer" title="Matplotlib"><img src="https://matplotlib.org/_static/logo_dark.svg" height="45" alt="Matplotlib"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://plotly.com" target="_blank" rel="noreferrer" title="Plotly"><img src="https://cdn.simpleicons.org/plotly/3F4F75" height="45" alt="Plotly"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://powerbi.microsoft.com" target="_blank" rel="noreferrer" title="Power BI"><img src="https://cdn.simpleicons.org/powerbi/F2C811" height="45" alt="Power BI"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer" title="Microsoft Excel"><img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="45" alt="Excel"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://mlflow.org" target="_blank" rel="noreferrer" title="MLflow"><img src="https://cdn.simpleicons.org/mlflow/0194E2" height="45" alt="MLflow"/></a>
+</p>
 
 ### 🗄️ Databases
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
+<p align="left">
+  <a href="https://www.sqlite.org" target="_blank" rel="noreferrer" title="SQLite"><img src="https://cdn.simpleicons.org/sqlite/003B57" height="45" alt="SQLite"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.mysql.com" target="_blank" rel="noreferrer" title="MySQL"><img src="https://cdn.simpleicons.org/mysql/4479A1" height="45" alt="MySQL"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.mongodb.com" target="_blank" rel="noreferrer" title="MongoDB"><img src="https://cdn.simpleicons.org/mongodb/47A248" height="45" alt="MongoDB"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://aws.amazon.com/dynamodb" target="_blank" rel="noreferrer" title="Amazon DynamoDB"><img src="https://cdn.simpleicons.org/amazondynamodb/4053D6" height="45" alt="DynamoDB"/></a>
+</p>
 
 ### 🚀 Deployment & Tooling
-![Gradio](https://img.shields.io/badge/Gradio-F97316?style=for-the-badge&logo=gradio&logoColor=white)
-![HF Spaces](https://img.shields.io/badge/HF%20Spaces-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+<p align="left">
+  <a href="https://www.gradio.app" target="_blank" rel="noreferrer" title="Gradio"><img src="https://avatars.githubusercontent.com/u/51063788?s=200" height="45" alt="Gradio"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://huggingface.co/spaces" target="_blank" rel="noreferrer" title="Hugging Face Spaces"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="45" alt="HF Spaces"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.docker.com" target="_blank" rel="noreferrer" title="Docker"><img src="https://cdn.simpleicons.org/docker/2496ED" height="45" alt="Docker"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://git-scm.com" target="_blank" rel="noreferrer" title="Git"><img src="https://cdn.simpleicons.org/git/F05032" height="45" alt="Git"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com" target="_blank" rel="noreferrer" title="GitHub"><img src="https://cdn.simpleicons.org/github/ffffff" height="45" alt="GitHub"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer" title="Node.js"><img src="https://cdn.simpleicons.org/nodedotjs/339933" height="45" alt="Node.js"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://daringfireball.net/projects/markdown/" target="_blank" rel="noreferrer" title="Markdown"><img src="https://cdn.simpleicons.org/markdown/ffffff" height="45" alt="Markdown"/></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.canva.com" target="_blank" rel="noreferrer" title="Canva"><img src="https://cdn.simpleicons.org/canva/00C4CC" height="45" alt="Canva"/></a>
+</p>
 
-### 💼 Business & Product
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-8B5CF6?style=for-the-badge&logo=openai&logoColor=white)
-![NL→SQL](https://img.shields.io/badge/NL%E2%86%92SQL-1E90FF?style=for-the-badge&logo=databricks&logoColor=white)
-![LLM Guardrails](https://img.shields.io/badge/LLM%20Guardrails-DC2626?style=for-the-badge&logo=shield&logoColor=white)
-![Market Research](https://img.shields.io/badge/Market%20Research-16A34A?style=for-the-badge&logo=googleanalytics&logoColor=white)
-![LinkedIn Sales Nav](https://img.shields.io/badge/Sales%20Nav-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+### 💼 Business & Product Skills
+> Concepts, not tools — no icons for these, but they're what turn the stack above into shipped products.
+
+`LLM Prompt Design & Evaluation` · `Natural-Language-to-SQL` · `LLM Guardrails & Verifiable Outputs` · `KPI Definition (Profit, Margin, Sell-Through)` · `Requirements Gathering & User Stories` · `Competitor & Market Research` · `Lead Generation` · `Stakeholder Storytelling`
 
 ---
 
