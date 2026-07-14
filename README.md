@@ -152,19 +152,10 @@ I'm a business graduate (BBA, International Business & Marketing) currently purs
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.shion.dev/api?username=advait666202&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&icon_color=8B5CF6&title_color=8B5CF6"/>
-  <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=advait666202&layout=compact&theme=tokyonight&hide_border=true&title_color=8B5CF6"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=advait666202&theme=tokyonight&hide_border=true&stroke=8B5CF6&ring=8B5CF6&fire=F97316" alt="GitHub streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=advait666202&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15"
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=advait666202&theme=transparent&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=advait666202&theme=transparent&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=advait666202&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 
@@ -176,7 +167,7 @@ I'm a business graduate (BBA, International Business & Marketing) currently purs
 
 ---
 
-## ✍️ Dev Quote of the Day
+## ✍️ Quote of the Day
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote"/>
