@@ -29,7 +29,7 @@
 I'm a business graduate (BBA, International Business & Marketing) currently pursuing my **MSc in Artificial Intelligence for Business at SP Jain, Dubai**. I sit at the intersection of business and applied AI — I've shipped two end-to-end AI products that solve real decision-making problems, and I like turning "black-box AI" into something a manager can verify and trust.
 
 - 🎯 **Goal:** Grow into an **AI Business Analyst** who helps organisations use AI to make faster, smarter, more confident decisions
-- 🔨 **Currently building:** `TalkToData` (NL → SQL) and `Optimus` (RL-based dynamic pricing co-pilot)
+- 🔨 **Recently Build:** `TalkToData` (NL → SQL) and `Optimus` (RL-based dynamic pricing co-pilot)
 - 🧠 **Learning:** LLM guardrails, evaluation, and productionising AI features
 - 📫 **Reach me:** [advaitdalvi03@gmail.com](mailto:advaitdalvi03@gmail.com)
 - 💬 **Ask me about:** LLM prompt design, NL-to-SQL, reinforcement learning for pricing, or how to make AI outputs *verifiable*
@@ -160,9 +160,8 @@ I'm a business graduate (BBA, International Business & Marketing) currently purs
 ---
 
 ## 🐍 Contribution Activity Graph
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=advait666202&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph&line=8B5CF6&point=F97316" alt="activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=advait666202&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph&line=8B5CF6&point=F97316&area=true&area_color=8B5CF6" alt="activity graph"/>
 </p>
 
 ---
