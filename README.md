@@ -39,7 +39,7 @@ I'm a business graduate (BBA, International Business & Marketing) currently purs
 
 ---
 
-## 🎮 Pac-Man Contribution Graph
+## My Contribution Graph
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/advait666202/advait666202/output/pacman-contribution-graph.svg" alt="pacman contribution graph"/>
