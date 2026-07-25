@@ -1,0 +1,161 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" width="1200" height="260" font-family="'JetBrains Mono','Fira Code','Courier New',monospace">
+  <!-- Transparent background, tuned for white / light pages. No window frame. -->
+  <defs>
+    <!-- animated name gradient (deep tones so it reads on white) -->
+    <linearGradient id="nameGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0891B2">
+        <animate attributeName="stop-color"
+                 values="#0891B2;#7C3AED;#DB2777;#0891B2"
+                 dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#7C3AED">
+        <animate attributeName="stop-color"
+                 values="#7C3AED;#DB2777;#0891B2;#7C3AED"
+                 dur="8s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#DB2777">
+        <animate attributeName="stop-color"
+                 values="#DB2777;#0891B2;#7C3AED;#DB2777"
+                 dur="8s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+
+    <!-- soft band for the scanning sweep -->
+    <linearGradient id="scanGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0891B2" stop-opacity="0"/>
+      <stop offset="70%" stop-color="#7C3AED" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#0891B2" stop-opacity="0.28"/>
+    </linearGradient>
+
+    <!-- typing reveal for the command line -->
+    <clipPath id="typeClip">
+      <rect x="16" y="50" width="440" height="30">
+        <animate attributeName="width"
+                 values="0;0;440;440;440;0" keyTimes="0;0.06;0.24;0.90;0.96;1"
+                 dur="9s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+
+    <!-- wipe reveal for the big name -->
+    <clipPath id="nameClip">
+      <rect x="16" y="86" width="800" height="94">
+        <animate attributeName="width"
+                 values="0;0;800;800;800;0" keyTimes="0;0.26;0.44;0.90;0.96;1"
+                 dur="9s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+  </defs>
+
+  <!-- ============ SCANNING SWEEP (behind the text) ============ -->
+  <g>
+    <rect x="8" y="-64" width="1184" height="64" fill="url(#scanGrad)">
+      <animate attributeName="y" values="-64;260" dur="4.5s" repeatCount="indefinite"/>
+    </rect>
+    <line x1="8" y1="0" x2="1192" y2="0" stroke="#0891B2" stroke-width="1.6" opacity="0.55">
+      <animate attributeName="y1" values="0;324" dur="4.5s" repeatCount="indefinite"/>
+      <animate attributeName="y2" values="0;324" dur="4.5s" repeatCount="indefinite"/>
+    </line>
+  </g>
+
+  <!-- ============ SCANNER CORNER BRACKETS ============ -->
+  <g fill="none" stroke="#0891B2" stroke-width="2.5" stroke-linecap="square">
+    <animate attributeName="opacity" values="0.35;1;0.35" dur="3.2s" repeatCount="indefinite"/>
+    <path d="M8 32 v-24 h24"/>
+    <path d="M1192 32 v-24 h-24"/>
+    <path d="M8 228 v24 h24"/>
+    <path d="M1192 228 v24 h-24"/>
+  </g>
+
+  <!-- build tag -->
+  <text x="1164" y="42" text-anchor="end" font-size="15" fill="#2563EB" letter-spacing="1">[ BUILD_v2.7 ]
+    <animate attributeName="opacity" values="1;0.3;1" dur="2.6s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- prompt line 1 -->
+  <text x="24" y="42" font-size="19">
+    <animate attributeName="opacity" values="0;0;1;1;1;0"
+             keyTimes="0;0.02;0.06;0.90;0.96;1" dur="9s" repeatCount="indefinite"/>
+    <tspan fill="#15803D">→</tspan>
+    <tspan fill="#0369A1"> ~/advait</tspan>
+    <tspan fill="#B45309"> git:(main)</tspan>
+    <tspan fill="#DC2626"> ✗</tspan>
+  </text>
+
+  <!-- typed command -->
+  <g clip-path="url(#typeClip)">
+    <text x="24" y="72" font-size="19">
+      <tspan fill="#64748B">$ </tspan>
+      <tspan fill="#1E293B">./init </tspan>
+      <tspan fill="#7C3AED">--profile --verbose</tspan>
+    </text>
+  </g>
+
+  <!-- blinking cursor: an invisible copy of the command keeps it glued to the
+       end of the text in whatever monospace font the viewer actually has -->
+  <text x="24" y="72" font-size="19">
+    <animate attributeName="opacity" values="0;0;1;1;1;0"
+             keyTimes="0;0.24;0.26;0.90;0.96;1" dur="9s" repeatCount="indefinite"/>
+    <tspan fill="none" stroke="none">$ ./init --profile --verbose</tspan><tspan fill="#1E293B">█<animate
+        attributeName="opacity" values="1;0" keyTimes="0;0.5"
+        calcMode="discrete" dur="1.05s" repeatCount="indefinite"/></tspan>
+  </text>
+
+  <!-- BIG NAME (wipe in) -->
+  <g clip-path="url(#nameClip)">
+    <text x="22" y="164" font-size="92" font-weight="700" letter-spacing="4"
+          fill="url(#nameGrad)">ADVAIT DALVI</text>
+  </g>
+
+  <!-- subtitle -->
+  <text x="24" y="204" font-size="22" fill="#334155">
+    <animate attributeName="opacity" values="0;0;1;1;1;0"
+             keyTimes="0;0.46;0.54;0.90;0.96;1" dur="9s" repeatCount="indefinite"/>
+    <tspan fill="#94A3B8">// </tspan>AI Business Analyst <tspan fill="#94A3B8">@</tspan> <tspan fill="#0369A1">SP Jain Dubai</tspan>
+  </text>
+
+  <!-- focus line -->
+  <text x="24" y="236" font-size="19">
+    <animate attributeName="opacity" values="0;0;1;1;1;0"
+             keyTimes="0;0.56;0.64;0.90;0.96;1" dur="9s" repeatCount="indefinite"/>
+    <tspan fill="#DB2777">&gt; FOCUS: </tspan>
+    <tspan fill="#1E293B">LLMs</tspan>
+    <tspan fill="#94A3B8"> · </tspan>
+    <tspan fill="#1E293B">RL</tspan>
+    <tspan fill="#94A3B8"> · </tspan>
+    <tspan fill="#1E293B">Guardrails</tspan>
+  </text>
+
+  <!-- status: pulsing ONLINE -->
+  <circle cx="840" cy="230" r="5" fill="#16A34A">
+    <animate attributeName="r" values="4;6.5;4" dur="1.8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;0.35;1" dur="1.8s" repeatCount="indefinite"/>
+  </circle>
+  <text x="854" y="236" font-size="15" fill="#16A34A">ONLINE</text>
+  <text x="1164" y="236" text-anchor="end" font-size="15" fill="#64748B">MAIB • 2025 → 2027</text>
+
+  <!-- node graph: drawing lines + pulsing nodes -->
+  <g stroke="#7C3AED" stroke-width="1.6" fill="#DB2777">
+    <animate attributeName="opacity" values="0.3;0.85;0.3" dur="4.5s" repeatCount="indefinite"/>
+    <line x1="1000" y1="80" x2="1100" y2="112" stroke-dasharray="110" stroke-dashoffset="110">
+      <animate attributeName="stroke-dashoffset" values="110;0" dur="1.6s" begin="0.3s" fill="freeze"/>
+    </line>
+    <line x1="1100" y1="112" x2="1172" y2="78" stroke-dasharray="82" stroke-dashoffset="82">
+      <animate attributeName="stroke-dashoffset" values="82;0" dur="1.6s" begin="0.8s" fill="freeze"/>
+    </line>
+    <line x1="1100" y1="112" x2="1130" y2="166" stroke-dasharray="64" stroke-dashoffset="64">
+      <animate attributeName="stroke-dashoffset" values="64;0" dur="1.6s" begin="1.3s" fill="freeze"/>
+    </line>
+    <circle cx="1000" cy="80" r="4">
+      <animate attributeName="r" values="3;5;3" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1100" cy="112" r="5">
+      <animate attributeName="r" values="4;7;4" dur="2.4s" begin="0.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1172" cy="78" r="4">
+      <animate attributeName="r" values="3;5;3" dur="2.4s" begin="0.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1130" cy="166" r="4">
+      <animate attributeName="r" values="3;5;3" dur="2.4s" begin="1.2s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>
