@@ -152,7 +152,7 @@ I'm a business graduate (BBA, International Business & Marketing) currently purs
 
 ## 🐍 Contribution Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=advait666202&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph&line=8B5CF6&point=F97316&area=true&area_color=8B5CF6" alt="activity graph"/>
+  <img src="https://raw.githubusercontent.com/advait666202/advait666202/main/assets/contribution-graph.svg" alt="animated contribution graph"/>
 </p>
 
 ---
