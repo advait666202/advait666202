@@ -160,7 +160,7 @@ I'm a business graduate (BBA, International Business & Marketing) currently purs
 ## ✍️ Quote of the Day
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&backgroundColor=00000000" alt="quote"/>
 </p>
 
 ---
