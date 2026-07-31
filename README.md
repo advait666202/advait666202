@@ -76,7 +76,6 @@ I'm a business graduate (BBA, International Business & Marketing) currently purs
   <a href="https://www.sqlite.org" target="_blank" rel="noreferrer" title="SQLite"><img src="https://cdn.simpleicons.org/sqlite/003B57" height="45" alt="SQLite"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.mysql.com" target="_blank" rel="noreferrer" title="MySQL"><img src="https://cdn.simpleicons.org/mysql/4479A1" height="45" alt="MySQL"/></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.mongodb.com" target="_blank" rel="noreferrer" title="MongoDB"><img src="https://cdn.simpleicons.org/mongodb/47A248" height="45" alt="MongoDB"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://aws.amazon.com/dynamodb" target="_blank" rel="noreferrer" title="Amazon DynamoDB"><img src="./assets/dynamodb.png" height="45" alt="DynamoDB"/></a>
 </p>
 
 ### 🚀 Deployment & Tooling
